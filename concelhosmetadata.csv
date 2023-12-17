@@ -1,0 +1,279 @@
+dicofre;designacao;codigo;lat;long;area;pop;site;district;parish;nuts3;nuts2
+101;Águeda;AGD;40.566667;-8.45;335.27;46349;https://www.cm-agueda.pt;Aveiro;11;Região de Aveiro;Centro
+102;Albergaria-a-Velha;ALB;40.7;-8.483333;158.830;25252;http://www.cm-albergaria.pt;Aveiro;6;Região de Aveiro;Centro
+103;Anadia;AND;40.442222;-8.436111;216.649;29150;http://www.cm-anadia.pt/;Aveiro;10;Região de Aveiro;Centro
+104;Arouca;ARC;40.933333;-8.25;329.11;22359;http://www.cm-arouca.pt;Aveiro;16;Área Metropolitana do Porto;Norte
+105;Aveiro;AVR;40.633333;-8.65;197.58;80978;http://www.cm-aveiro.pt;Aveiro;10;Região de Aveiro;Centro
+106;Castelo de Paiva;CPV;41.046389;-8.269722;115.01;16733;http://www.cm-castelo-paiva.pt/;Aveiro;6;Tâmega e Sousa;Norte
+107;Espinho;ESP;41.008333;-8.641667;21.06;31786;http://www.cm-espinho.pt/;Aveiro;4;Área Metropolitana do Porto;Norte
+108;Estarreja;ETR;40.75;-8.566667;108.17;26997;http://www.cm-estarreja.pt/;Aveiro;5;Região de Aveiro;Centro
+109;Santa Maria da Feira;VFR;40.933333;-8.533333;213.45;139313;https://www.cm-feira.pt/;Aveiro;21;Área Metropolitana do Porto;Norte
+110;Ílhavo;ILH;40.6;-8.666667;73.48;38598;http://www.cm-ilhavo.pt;Aveiro;4;Região de Aveiro;Centro
+111;Mealhada;MLD;40.383333;-8.45;110.66;20428;http://www.cm-mealhada.pt;Aveiro;6;Região de Coimbra;Centro
+112;Murtosa;MRS;40.7375;-8.638056;73.09;10585;http://www.cm-murtosa.pt/;Aveiro;4;Região de Aveiro;Centro
+113;Oliveira de Azeméis;OAZ;40.833333;-8.483333;161.10;69127;http://www.cm-oaz.pt/;Aveiro;12;Área Metropolitana do Porto;Norte
+114;Oliveira do Bairro;OBR;40.516667;-8.5;87.32;23028;http://www.cm-olb.pt/;Aveiro;4;Região de Aveiro;Centro
+115;Ovar;OVR;40.859167;-8.625;147.70;55398;http://www.cm-ovar.pt/;Aveiro;5;Região de Aveiro;Centro
+116;São João da Madeira;SJM;40.9;-8.5;7.94;22162;http://www.cm-sjm.pt/;Aveiro;1;Área Metropolitana do Porto;Norte
+117;Sever do Vouga;SVV;40.733333;-8.369167;129.88;12356;http://www.cm-sever.pt/;Aveiro;7;Região de Aveiro;Centro
+118;Vagos;VGS;40.55;-8.683333;164.92;22851;http://www.cm-vagos.pt/;Aveiro;8;Região de Aveiro;Centro
+119;Vale de Cambra;VLC;40.85;-8.4;235.89;22864;http://www.cm-valedecambra.pt;Aveiro;7;Área Metropolitana do Porto;Norte
+201;Aljustrel;AJT;37.916667;-8.166667;458.47;8874;http://www.mun-aljustrel.pt/;Beja;4;Baixo Alentejo;Alentejo
+202;Almodôvar;ADV;37.516667;-8.066667;777.88;6713;http://www.cm-almodovar.pt/;Beja;6;Baixo Alentejo;Alentejo
+203;Alvito;AVT;38.25;-7.983333;264.85;2282;http://www.cm-alvito.pt/;Beja;2;Baixo Alentejo;Alentejo
+204;Barrancos;BRC;38.130556;-6.976389;168.42;1435;http://www.cm-barrancos.pt/;Beja;1;Baixo Alentejo;Alentejo
+205;Beja;BJA;38.033333;-7.883333;1106.44;33401;http://www.cm-beja.pt/;Beja;12;Baixo Alentejo;Alentejo
+206;Castro Verde;CVR;37.7;-8.083333;569.44;6873;http://www.cm-castroverde.pt/;Beja;4;Baixo Alentejo;Alentejo
+207;Cuba;CBA;38.166667;-7.9;172.09;4374;http://www.cm-cuba.pt/;Beja;4;Baixo Alentejo;Alentejo
+208;Ferreira do Alentejo;FAL;38.05;-8.116667;648.25;7686;http://www.cm-ferreira-alentejo.pt/;Beja;4;Baixo Alentejo;Alentejo
+209;Mértola;MTL;37.633333;-7.666667;1292.87;6205;http://www.cm-mertola.pt;Beja;7;Baixo Alentejo;Alentejo
+210;Moura;MRA;38.116667;-7.5;958.46;13259;http://www.cm-moura.pt/;Beja;5;Baixo Alentejo;Alentejo
+211;Odemira;ODM;37.598;-8.642;1720.60;29523;http://www.cm-odemira.pt/;Beja;13;Alentejo Litoral;Alentejo
+212;Ourique;ORQ;37.65;-8.225;663.31;4840;http://cm-ourique.pt/;Beja;4;Baixo Alentejo;Alentejo
+213;Serpa;SRP;37.944722;-7.598889;1105.63;13764;http://www.cm-serpa.pt/;Beja;5;Baixo Alentejo;Alentejo
+214;Vidigueira;VDG;38.210653;-7.800983;316.61;5176;http://www.cm-vidigueira.pt/;Beja;4;Baixo Alentejo;Alentejo
+301;Amares;AMR;41.633333;-8.35;81.95;18591;http://www.cm-amares.pt/;Braga;16;Cávado;Norte
+302;Barcelos;BCL;41.533333;-8.616667;378.9;120391;http://www.cm-barcelos.pt/;Braga;61;Cávado;Norte
+303;Braga;BRG;41.551111;-8.428333;183.4;193349;http://www.cm-braga.pt;Braga;37;Cávado;Norte
+304;Cabeceiras de Basto;CBC;41.516667;-8;241.82;16064;https://cabeceirasdebasto.pt;Braga;12;Ave;Norte
+305;Celorico de Basto;CBT;41.383333;-8;181.07;20098;http://www.cm-celoricobasto.pt/;Braga;15;Tâmega e Sousa;Norte
+306;Esposende;EPS;41.533333;-8.783333;95.41;33947;http://www.cm-esposende.pt/;Braga;9;Cávado;Norte
+307;Fafe;FAF;41.45;-8.175;219.08;48502;http://www.cm-fafe.pt/;Braga;25;Ave;Norte
+308;Guimarães;GMR;41.441389;-8.295278;240.95;156852;http://www.cm-guimaraes.pt/;Braga;48;Ave;Norte
+309;Póvoa de Lanhoso;PVL;41.578056;-8.277222;134.65;21787;http://www.cm-povoadelanhoso.pt/;Braga;22;Ave;Norte
+310;Terras de Bouro;TBR;41.718611;-8.309444;277.46;6359;http://www.cm-terrasdebouro.pt/;Braga;14;Cávado;Norte
+311;Vieira do Minho;VRM;41.635028;-8.141778;218.05;12997;http://www.cm-vminho.pt/;Braga;16;Ave;Norte
+312;Vila Nova de Famalicão;VNF;41.416667;-8.516667;201.59;133590;https://www.famalicao.pt/;Braga;34;Ave;Norte
+313;Vila Verde;VVD;41.65;-8.433333;228.67;46474;http://www.cm-vilaverde.pt/;Braga;33;Cávado;Norte
+314;Vizela;VIZ;41.383333;-8.3;24.70;23736;http://www.cm-vizela.pt/;Braga;5;Ave;Norte
+401;Alfândega da Fé;AFE;41.35;-6.966667;321.95;5104;http://www.cm-alfandegadafe.pt/;Bragança;12;Terras de Trás-os-Montes;Norte
+402;Bragança;BGC;41.806667;-6.758889;1173.57;34589;http://www.cm-braganca.pt/;Bragança;49;Terras de Trás-os-Montes;Norte
+403;Carrazeda de Ansiães;CRZ;41.25;-7.3;279.24;5494;http://www.cm-carrazedadeansiaes.pt/;Bragança;14;Douro;Norte
+404;Freixo de Espada à Cinta;FEC;41.083333;-6.8;244.14;3215;http://www.cm-freixoespadacinta.pt/;Bragança;4;Douro;Norte
+405;Macedo de Cavaleiros;MCD;41.533333;-6.95;699.14;15776;http://www.cm-macedodecavaleiros.pt;Bragança;30;Terras de Trás-os-Montes;Norte
+406;Miranda do Douro;MDR;41.5;-6.266667;487.18;6466;http://www.cm-mdouro.pt;Bragança;13;Terras de Trás-os-Montes;Norte
+407;Mirandela;MDL;41.483333;-7.183333;658.96;23850;http://www.cm-mirandela.pt/;Bragança;30;Terras de Trás-os-Montes;Norte
+408;Mogadouro;MGD;41.333333;-6.716667;760.65;9542;http://www.mogadouro.pt/;Bragança;21;Terras de Trás-os-Montes;Norte
+409;Torre de Moncorvo;TMC;41.173889;-7.05;531.56;8572;http://www.cm-moncorvo.pt/;Bragança;13;Douro;Norte
+410;Vila Flor;VFL;41.307778;-7.153056;265.81;6697;http://www.cm-vilaflor.pt;Bragança;14;Terras de Trás-os-Montes;Norte
+411;Vimioso;VMS;41.582419;-6.532917;481.59;4669;http://www.cm-vimioso.pt/;Bragança;10;Terras de Trás-os-Montes;Norte
+412;Vinhais;VNH;41.832639;-7.008054;694.76;9066;http://www.cm-vinhais.pt/;Bragança;26;Terras de Trás-os-Montes;Norte
+501;Belmonte;BMT;40.366667;-7.35;118.76;6204;http://www.cm-belmonte.pt/;Castelo Branco;4;Beiras e Serra da Estrela;Centro
+502;Castelo Branco;CTB;39.816667;-7.5;1438.19;52291;http://www.cm-castelobranco.pt/;Castelo Branco;19;Beira Baixa;Centro
+503;Covilhã;CVL;40.283333;-7.5;555.60;46457;http://www.cm-covilha.pt;Castelo Branco;21;Beiras e Serra da Estrela;Centro
+504;Fundão;FND;40.133333;-7.5;700.20;26509;http://www.cm-fundao.pt;Castelo Branco;23;Beiras e Serra da Estrela;Centro
+505;Idanha-a-Nova;IDN;39.916667;-7.233333;1416.34;8340;http://www.cm-idanhanova.pt/;Castelo Branco;13;Beira Baixa;Centro
+506;Oleiros;OLR;39.918611;-7.912778;464.67;4900;http://www.cm-oleiros.pt/;Castelo Branco;10;Beira Baixa;Centro
+507;Penamacor;PNC;40.168333;-7.167222;563.71;4764;http://www.cm-penamacor.pt;Castelo Branco;9;Beira Baixa;Centro
+508;Proença-a-Nova;PNV;39.750964;-7.9247;385.39;7147;http://www.cm-proencanova.pt;Castelo Branco;4;Beira Baixa;Centro
+509;Sertã;SRT;39.800833;-8.100278;453.13;14748;http://www.cm-serta.pt;Castelo Branco;10;Médio Tejo;Centro
+510;Vila de Rei;VLR;39.676944;-8.1425;191.55;3276;http://www.cm-viladerei.pt/;Castelo Branco;3;Médio Tejo;Centro
+511;Vila Velha de Ródão;VVR;39.651389;-7.673333;329.91;3287;http://www.cm-vvrodao.pt/;Castelo Branco;4;Beira Baixa;Centro
+601;Arganil;AGN;40.216667;-8.05;332.84;11596;http://www.cm-arganil.pt;Coimbra;14;Região de Coimbra;Centro
+602;Cantanhede;CNT;40.35;-8.591667;390.88;34218;http://www.cm-cantanhede.pt/;Coimbra;14;Região de Coimbra;Centro
+603;Coimbra;CBR;40.211111;-8.429167;319.4;140796;http://www.cm-coimbra.pt/;Coimbra;18;Região de Coimbra;Centro
+604;Condeixa-a-Nova;CDN;40.116667;-8.5;138.68;17078;https://www.cm-condeixa.pt;Coimbra;7;Região de Coimbra;Centro
+605;Figueira da Foz;FIG;40.15;-8.85;379.05;62125;http://www.cm-figfoz.pt/;Coimbra;14;Região de Coimbra;Centro
+606;Góis;GOI;40.15;-8.116667;263.30;4260;http://www.cm-gois.pt;Coimbra;4;Região de Coimbra;Centro
+607;Lousã;LSA;40.116667;-8.25;138.40;17604;http://www.cm-lousa.pt/;Coimbra;4;Região de Coimbra;Centro
+608;Mira;MIR;40.433333;-8.733333;124.03;12465;http://www.cm-mira.pt;Coimbra;4;Região de Coimbra;Centro
+609;Miranda do Corvo;MCV;40.1;-8.333333;126.38;13098;http://www.cm-mirandadocorvo.pt;Coimbra;4;Região de Coimbra;Centro
+610;Montemor-o-Velho;MMV;40.166667;-8.683333;228.96;26171;http://www.cm-montemorvelho.pt/;Coimbra;11;Região de Coimbra;Centro
+611;Oliveira do Hospital;OHP;40.360278;-7.861667;234.52;19421;http://www.cm-oliveiradohospital.pt;Coimbra;16;Região de Coimbra;Centro
+612;Pampilhosa da Serra;PPS;40.05;-7.95;396.46;4083;http://www.cm-pampilhosadaserra.pt/;Coimbra;8;Região de Coimbra;Centro
+613;Penacova;PCV;40.270556;-8.282778;216.73;13119;http://www.cm-penacova.pt/;Coimbra;8;Região de Coimbra;Centro
+614;Penela;PNL;40.033333;-8.383333;132.49;5983;http://www.cm-penela.pt;Coimbra;4;Região de Coimbra;Centro
+615;Soure;SRE;40.05;-8.633333;263.91;19245;http://www.cm-soure.pt;Coimbra;10;Região de Coimbra;Centro
+616;Tábua;TBU;40.360345;-8.029032;199.79;12071;http://www.cm-tabua.pt/;Coimbra;11;Região de Coimbra;Centro
+617;Vila Nova de Poiares;PRS;40.210833;-8.2575;84.45;7281;http://www.cm-vilanovadepoiares.pt/;Coimbra;4;Região de Coimbra;Centro
+701;Alandroal;ADL;38.7;-7.4;542.68;5007;http://www.cm-alandroal.pt/;Évora;4;Alentejo Central;Alentejo
+702;Arraiolos;ARL;38.716667;-7.983333;683.75;6619;http://www.cm-arraiolos.pt/;Évora;5;Alentejo Central;Alentejo
+703;Borba;BRB;38.8;-7.45;145.19;6428;http://www.cm-borba.pt/;Évora;4;Alentejo Central;Alentejo
+704;Estremoz;ETZ;38.85;-7.65;513.80;12683;http://www.cm-estremoz.pt/;Évora;9;Alentejo Central;Alentejo
+705;Évora;EVR;38.570833;-7.909444;1307.08;53591;http://www.cm-evora.pt/;Évora;12;Alentejo Central;Alentejo
+706;Montemor-o-Novo;MMN;38.65;-8.216667;1232.97;15804;http://www.cm-montemornovo.pt/;Évora;7;Alentejo Central;Alentejo
+707;Mora;MOR;38.948611;-8.175278;443.95;4135;http://www.cm-mora.pt;Évora;4;Alentejo Central;Alentejo
+708;Mourão;MOU;38.384722;-7.344444;278.63;2351;http://www.cm-mourao.pt/;Évora;3;Alentejo Central;Alentejo
+709;Portel;PRL;38.308333;-7.705556;601.01;5747;http://www.cm-portel.pt/;Évora;6;Alentejo Central;Alentejo
+710;Redondo;RDD;38.646667;-7.546667;369.51;6300;http://www.cm-redondo.pt/;Évora;2;Alentejo Central;Alentejo
+711;Reguengos de Monsaraz;RMZ;38.425556;-7.538611;464.00;9871;http://www.cm-reguengos-monsaraz.pt/;Évora;4;Alentejo Central;Alentejo
+712;Vendas Novas;VND;38.683333;-8.45;222.39;11260;https://www.cm-vendasnovas.pt;Évora;2;Alentejo Central;Alentejo
+713;Viana do Alentejo;VNT;38.333056;-8.001667;393.67;5319;http://www.cm-vianadoalentejo.pt;Évora;3;Alentejo Central;Alentejo
+714;Vila Viçosa;VVC;38.77657;-7.416887;194.86;7388;http://www.cm-vilavicosa.pt/;Évora;4;Alentejo Central;Alentejo
+801;Albufeira;ABF;37.083333;-8.25;140.66;44158;http://www.cm-albufeira.pt/;Faro;4;Algarve;Algarve
+802;Alcoutim;ACT;37.466667;-7.466667;575.36;2521;http://www.cm-alcoutim.pt/;Faro;4;Algarve;Algarve
+803;Aljezur;AJZ;37.316667;-8.8;323.50;6046;http://www.cm-aljezur.pt;Faro;4;Algarve;Algarve
+804;Castro Marim;CTM;37.21743;-7.44347;300.84;6434;http://www.cm-castromarim.pt;Faro;4;Algarve;Algarve
+805;Faro;FAR;37.01728;-7.93370;202.57;67650;https://www.cm-faro.pt/;Faro;4;Algarve;Algarve
+806;Lagoa;LAG;37.75;-8.45;45.57;14416;http://www.cm-lagoa.pt;Faro;4;Algarve;Algarve
+807;Lagos;LGS;37.1;-8.666667;212.99;33514;http://www.cm-lagos.pt/;Faro;4;Algarve;Algarve
+808;Loulé;LLE;37.15;-8;763.67;72373;http://www.cm-loule.pt;Faro;9;Algarve;Algarve
+809;Monchique;MCQ;37.316667;-8.633333;395.30;5465;http://www.cm-monchique.pt/;Faro;3;Algarve;Algarve
+810;Olhão;OLH;37.05;-7.8;130.86;44639;http://www.cm-olhao.pt/;Faro;4;Algarve;Algarve
+811;Portimão;PTM;37.136944;-8.538333;182.06;59867;https://www.cm-portimao.pt;Faro;3;Algarve;Algarve
+812;São Brás de Alportel;SBA;37.153611;-7.887778;153.37;11266;http://www.cm-sbras.pt/;Faro;1;Algarve;Algarve
+813;Silves;SLV;37.183333;-8.433333;680.06;37813;http://www.cm-silves.pt/;Faro;6;Algarve;Algarve
+814;Tavira;TVR;37.116667;-7.65;606.97;27536;http://www.cm-tavira.pt/;Faro;6;Algarve;Algarve
+815;Vila do Bispo;VBP;37.083333;-8.883333;179.06;5258;http://www.cm-viladobispo.pt/;Faro;4;Algarve;Algarve
+816;Vila Real de Santo António;VRS;37.2;-7.416667;61.25;18828;http://www.cm-vrsa.pt;Faro;3;Algarve;Algarve
+901;Aguiar da Beira;AGB;40.816667;-7.55;206.77;5231;http://www.cm-aguiardabeira.pt;Guarda;10;Viseu Dão-Lafões;Centro
+902;Almeida;ALD;40.733333;-6.9;517.99;5882;http://www.cm-almeida.pt;Guarda;16;Beiras e Serra da Estrela;Centro
+903;Celorico da Beira;CLB;40.635833;-7.393333;247.22;7693;http://www.cm-celoricodabeira.pt/;Guarda;16;Beiras e Serra da Estrela;Centro
+904;Figueira de Castelo Rodrigo;FCR;40.9;-6.966667;508.58;6260;http://www.cm-fcr.pt/;Guarda;10;Beiras e Serra da Estrela;Centro
+905;Fornos de Algodres;FAG;40.620833;-7.536111;131.45;4989;http://www.cm-fornosdealgodres.pt/;Guarda;12;Beiras e Serra da Estrela;Centro
+906;Gouveia;GVA;40.5;-7.6;300.61;14046;http://www.cm-gouveia.pt/;Guarda;16;Beiras e Serra da Estrela;Centro
+907;Guarda;GRD;40.533333;-7.333333;712.1;40126;http://www.mun-guarda.pt/;Guarda;43;Beiras e Serra da Estrela;Centro
+908;Manteigas;MTG;40.4025;-7.540278;121.98;3430;http://cm-manteigas.pt;Guarda;4;Beiras e Serra da Estrela;Centro
+909;Mêda;MED;40.966667;-7.266667;286.05;5202;http://www.cm-meda.pt;Guarda;11;Beiras e Serra da Estrela;Centro
+910;Pinhel;PNH;40.783333;-7.066667;484.52;9627;http://www.cm-pinhel.pt/;Guarda;18;Beiras e Serra da Estrela;Centro
+911;Sabugal;SBG;40.35;-7.083333;822.70;12544;http://www.cm-sabugal.pt/;Guarda;30;Beiras e Serra da Estrela;Centro
+912;Seia;SEI;40.416667;-7.7;435.69;24702;http://www.cm-seia.pt;Guarda;21;Beiras e Serra da Estrela;Centro
+913;Trancoso;TCS;40.783333;-7.35;361.52;9878;http://www.cm-trancoso.pt;Guarda;21;Beiras e Serra da Estrela;Centro
+914;Vila Nova de Foz Côa;VLF;41.083333;-7.133333;398.15;6304;http://www.cm-fozcoa.pt;Guarda;14;Douro;Norte
+1001;Alcobaça;ACB;39.55;-8.983333;408.14;54981;http://www.cm-alcobaca.pt;Leiria;13;Oeste;Centro
+1002;Alvaiázere;AVZ;39.833333;-8.383333;160.48;7287;http://www.cm-alvaiazere.pt/;Leiria;5;Região de Leiria;Centro
+1003;Ansião;ANS;39.916667;-8.433333;176.09;13128;http://www.cm-ansiao.pt/;Leiria;6;Região de Leiria;Centro
+1004;Batalha;BTL;39.66;-8.826111;103.42;15805;http://www.cm-batalha.pt;Leiria;4;Região de Leiria;Centro
+1005;Bombarral;BBR;39.266667;-9.15;91.29;13193;http://www.cm-bombarral.pt;Leiria;4;Oeste;Centro
+1006;Caldas da Rainha;CLD;39.4;-9.133333;255.69;50898;http://www.mcr.pt/;Leiria;12;Oeste;Centro
+1007;Castanheira de Pêra;CPR;40;-8.216667;66.78;2667;http://www.cm-castanheiradepera.pt/;Leiria;1;Região de Leiria;Centro
+1008;Figueiró dos Vinhos;FVN;39.901944;-8.275;173.44;5296;http://www.cm-figueirodosvinhos.pt/;Leiria;4;Região de Leiria;Centro
+1009;Leiria;LRA;39.75;-8.8;565.09;128616;http://www.cm-leiria.pt;Leiria;18;Região de Leiria;Centro
+1010;Marinha Grande;MGR;39.75;-8.933333;187.25;39032;http://www.cm-mgrande.pt/;Leiria;3;Região de Leiria;Centro
+1011;Nazaré;NZR;39.600795;-9.072475;82.43;14889;http://www.cm-nazare.pt/;Leiria;3;Oeste;Centro
+1012;Óbidos;OBD;39.360556;-9.156944;141.55;11772;http://www.cm-obidos.pt/;Leiria;7;Oeste;Centro
+1013;Pedrógão Grande;PGR;39.916944;-8.146389;128.75;3392;http://www.cm-pedrogaogrande.pt/;Leiria;3;Região de Leiria;Centro
+1014;Peniche;PNI;39.358889;-9.377778;77.55;27753;http://www.cm-peniche.pt/;Leiria;4;Oeste;Centro
+1015;Pombal;PBL;39.916667;-8.666667;626.00;51178;https://www.cm-pombal.pt/;Leiria;13;Região de Leiria;Centro
+1016;Porto de Mós;PMS;39.601667;-8.8175;261.83;23203;http://www.municipio-portodemos.pt/;Leiria;10;Região de Leiria;Centro
+1101;Alenquer;ALQ;39.056111;-9.008056;304.22;43267;http://www.cm-alenquer.pt;Lisboa;11;Oeste;Centro
+1102;Arruda dos Vinhos;ARV;38.983333;-9.083333;77.96;13391;http://www.cm-arruda.pt;Lisboa;4;Oeste;Centro
+1103;Azambuja;AZB;39.066667;-8.866667;262.66;21442;http://www.cm-azambuja.pt/;Lisboa;7;Lezíria do Tejo;Alentejo
+1104;Cadaval;CDV;39.25;-9.1;174.89;14228;http://www.cm-cadaval.pt;Lisboa;7;Oeste;Centro
+1105;Cascais;CSC;38.7;-9.416667;97.40;214134;https://www.cascais.pt/;Lisboa;4;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1106;Lisboa;LSB;38.725278;-9.15;100.05;544851;http://www.cm-lisboa.pt;Lisboa;24;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1107;Loures;LRS;38.833333;-9.166667;167.24;201646;https://www.cm-loures.pt;Lisboa;10;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1108;Lourinhã;LNH;39.25;-9.316667;147.17;25735;http://www.cm-lourinha.pt;Lisboa;8;Oeste;Centro
+1109;Mafra;MFR;38.933333;-9.333333;291.66;86523;http://www.cm-mafra.pt/;Lisboa;11;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1110;Oeiras;OER;38.695833;-9.309167;45.88;171802;http://www.cm-oeiras.pt;Lisboa;5;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1111;Sintra;SNT;38.799167;-9.388333;319.23;385954;http://www.cm-sintra.pt/;Lisboa;11;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1112;Sobral de Monte Agraço;SMA;39.019722;-9.148889;52.10;10156;http://www.cm-sobral.pt;Lisboa;3;Oeste;Centro
+1113;Torres Vedras;TVD;39.090556;-9.259167;407.15;83130;http://www.cm-tvedras.pt/;Lisboa;13;Oeste;Centro
+1114;Vila Franca de Xira;VFX;38.95;-8.983333;318.19;136886;http://www.cm-vfxira.pt;Lisboa;6;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1115;Amadora;AMD;38.75;-9.233333;23.79;171719;http://www.cm-amadora.pt;Lisboa;6;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1116;Odivelas;ODV;38.8;-9.183333;26.54;148156;http://www.cm-odivelas.pt/;Lisboa;4;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1201;Alter do Chão;ALT;39.2;-7.666667;362.07;3044;http://www.cm-alter-chao.pt/;Portalegre;4;Alto Alentejo;Alentejo
+1202;Arronches;ARR;39.116667;-7.283333;314.65;2789;https://cm-arronches.pt/;Portalegre;3;Alto Alentejo;Alentejo
+1203;Avis;AVS;39.05;-7.883333;605.97;3812;https://cm-avis.pt/;Portalegre;6;Alto Alentejo;Alentejo
+1204;Campo Maior;CMR;39.016667;-7.066667;247.20;8042;http://www.cm-campo-maior.pt/;Portalegre;3;Alto Alentejo;Alentejo
+1205;Castelo de Vide;CVD;39.416667;-7.45;264.91;3116;https://cm-castelo-vide.pt/;Portalegre;4;Alto Alentejo;Alentejo
+1206;Crato;CRT;39.283333;-7.65;398.07;3225;http://www.cm-crato.pt;Portalegre;4;Alto Alentejo;Alentejo
+1207;Elvas;ELV;38.866667;-7.166667;631.29;20753;http://www.cm-elvas.pt;Portalegre;7;Alto Alentejo;Alentejo
+1208;Fronteira;FTR;39.05;-7.65;248.60;2858;http://www.cm-fronteira.pt;Portalegre;3;Alto Alentejo;Alentejo
+1209;Gavião;GAV;39.466667;-7.933333;294.59;3394;http://www.cm-gaviao.pt/;Portalegre;4;Alto Alentejo;Alentejo
+1210;Marvão;MRV;39.4;-7.366667;154.90;3021;https://www.cm-marvao.pt/;Portalegre;4;Alto Alentejo;Alentejo
+1211;Monforte;MFT;39.052222;-7.438056;420.25;2992;http://www.cm-monforte.pt/;Portalegre;4;Alto Alentejo;Alentejo
+1212;Nisa;NIS;39.51540;-7.64907;575.68;5951;http://www.cm-nisa.pt;Portalegre;7;Alto Alentejo;Alentejo
+1213;Ponte de Sor;PSR;39.24910;-8.00877;839.71;15249;http://www.cm-pontedesor.pt/;Portalegre;5;Alto Alentejo;Alentejo
+1214;Portalegre;PTG;39.283333;-7.433333;447.14;22368;http://www.cm-portalegre.pt;Portalegre;7;Alto Alentejo;Alentejo
+1215;Sousel;SSL;38.9525;-7.676389;279.32;4360;http://www.cm-sousel.pt;Portalegre;4;Alto Alentejo;Alentejo
+1301;Amarante;AMT;41.269444;-8.078333;301.33;56264;http://www.cm-amarante.pt/;Porto;26;Tâmega e Sousa;Norte
+1302;Baião;BAO;41.166667;-8.033333;174.53;20522;http://www.cm-baiao.pt/;Porto;14;Tâmega e Sousa;Norte
+1303;Felgueiras;FLG;41.366667;-8.183333;115.74;58065;http://www.cm-felgueiras.pt/;Porto;20;Tâmega e Sousa;Norte
+1304;Gondomar;GDM;41.15;-8.533333;131.86;168027;http://www.cm-gondomar.pt/;Porto;7;Área Metropolitana do Porto;Norte
+1305;Lousada;LOU;41.283333;-8.283333;96.08;47387;http://www.cm-lousada.pt/;Porto;15;Tâmega e Sousa;Norte
+1306;Maia;MAI;41.233333;-8.616667;82.99;135678;http://www.cm-maia.pt;Porto;10;Área Metropolitana do Porto;Norte
+1307;Marco de Canaveses;MCN;41.183333;-8.15;201.89;53450;http://www.cm-marco-canaveses.pt/;Porto;16;Tâmega e Sousa;Norte
+1308;Matosinhos;MTS;41.183333;-8.7;62.42;175478;http://www.cm-matosinhos.pt/;Porto;4;Área Metropolitana do Porto;Norte
+1309;Paços de Ferreira;PFR;41.283333;-8.383333;70.99;56340;http://www.cm-pacosdeferreira.pt;Porto;12;Tâmega e Sousa;Norte
+1310;Paredes;PRD;41.2;-8.333333;156.76;86854;http://www.cm-paredes.pt/;Porto;18;Área Metropolitana do Porto;Norte
+1311;Penafiel;PNF;41.20669;-8.28386;212.24;72265;http://www.cm-penafiel.pt/;Porto;28;Tâmega e Sousa;Norte
+1312;Porto;PRT;41.149444;-8.610833;41.42;231962;http://www.cm-porto.pt;Porto;7;Área Metropolitana do Porto;Norte
+1313;Póvoa de Varzim;PVZ;41.38;-8.760833;82.21;63408;http://www.cm-pvarzim.pt;Porto;7;Área Metropolitana do Porto;Norte
+1314;Santo Tirso;STS;41.35;-8.483333;136.60;71530;http://www.cm-stirso.pt/;Porto;14;Área Metropolitana do Porto;Norte
+1315;Valongo;VLG;41.183333;-8.5;75.12;93858;http://www.cm-valongo.pt/;Porto;4;Área Metropolitana do Porto;Norte
+1316;Vila do Conde;VCD;41.35;-8.75;149.03;79533;http://www.cm-viladoconde.pt;Porto;21;Área Metropolitana do Porto;Norte
+1317;Vila Nova de Gaia;VNG;41.133333;-8.616667;168.46;304149;http://www.cm-gaia.pt;Porto;15;Área Metropolitana do Porto;Norte
+1318;Trofa;TRF;41.35;-8.55;72.02;38999;http://www.mun-trofa.pt/;Porto;5;Área Metropolitana do Porto;Norte
+1401;Abrantes;ABT;39.466667;-8.2;714.69;34351;http://www.cm-abrantes.pt;Santarém;13;Médio Tejo;Centro
+1402;Alcanena;ACN;39.466667;-8.666667;137.33;20604;http://www.cm-alcanena.pt;Santarém;7;Médio Tejo;Centro
+1403;Almeirim;ALR;39.209167;-8.628611;222.12;22016;https://www.cm-almeirim.pt/;Santarém;4;Lezíria do Tejo;Alentejo
+1404;Alpiarça;APC;39.266667;-8.583333;95.36;6976;https://cm-alpiarca.pt/;Santarém;1;Lezíria do Tejo;Alentejo
+1405;Benavente;BNV;38.983333;-8.816667;521.38;29716;http://www.cm-benavente.pt/;Santarém;4;Lezíria do Tejo;Alentejo
+1406;Cartaxo;CTX;39.15;-8.783333;158.17;23187;http://www.cm-cartaxo.pt;Santarém;6;Lezíria do Tejo;Alentejo
+1407;Chamusca;CHM;39.35;-8.483333;746.01;8530;http://www.cm-chamusca.pt/;Santarém;5;Lezíria do Tejo;Alentejo
+1408;Constância;CNS;39.483333;-8.333333;80.37;4056;http://www.cm-constancia.pt/;Santarém;3;Médio Tejo;Centro
+1409;Coruche;CCH;38.95;-8.533333;1115.72;17356;https://www.cm-coruche.pt/;Santarém;6;Lezíria do Tejo;Alentejo
+1410;Entroncamento;ENT;39.466667;-8.466667;13.73;20206;https://www.cm-entroncamento.pt/;Santarém;2;Médio Tejo;Centro
+1411;Ferreira do Zêzere;FZZ;39.7;-8.283333;190.38;8619;http://www.cm-ferreiradozezere.pt/;Santarém;7;Médio Tejo;Centro
+1412;Golegã;GLG;39.4;-8.483333;84.32;5400;https://www.cm-golega.pt/;Santarém;3;Lezíria do Tejo;Alentejo
+1413;Mação;MAC;39.55;-8;399.98;7338;http://www.cm-macao.pt/;Santarém;6;Médio Tejo;Centro
+1414;Rio Maior;RMR;39.333333;-8.933333;272.76;21005;https://www.cm-riomaior.pt;Santarém;10;Lezíria do Tejo;Alentejo
+1415;Salvaterra de Magos;SMG;39.025833;-8.792778;243.93;22613;http://www.cm-salvaterrademagos.pt;Santarém;4;Lezíria do Tejo;Alentejo
+1416;Santarém;STR;39.233889;-8.686111;552.54;58671;http://www.cm-santarem.pt;Santarém;18;Lezíria do Tejo;Alentejo
+1417;Sardoal;SRD;39.537369;-8.161381;92.15;3939;http://www.cm-sardoal.pt;Santarém;4;Médio Tejo;Centro
+1418;Tomar;TMR;39.6;-8.416667;351.2;36444;http://www.cm-tomar.pt;Santarém;11;Médio Tejo;Centro
+1419;Torres Novas;TNV;39.483333;-8.533333;270;34149;http://www.cm-torresnovas.pt;Santarém;10;Médio Tejo;Centro
+1420;Vila Nova da Barquinha;VNB;39.45;-8.433333;49.53;7322;http://www.cm-vnbarquinha.pt/;Santarém;4;Médio Tejo;Centro
+1421;Ourém;ORM;39.65;-8.583333;416.68;44576;http://www.ourem.pt/;Santarém;13;Médio Tejo;Centro
+1501;Alcácer do Sal;ASL;38.366667;-8.5;1499.87;11113;http://www.cm-alcacerdosal.pt/;Setúbal;4;Alentejo Litoral;Alentejo
+1502;Alcochete;ACH;38.75;-8.966667;128.36;19145;https://www.cm-alcochete.pt/;Setúbal;3;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1503;Almada;ALM;38.680278;-9.158333;70.21;177268;https://www.cm-almada.pt/;Setúbal;11;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1504;Barreiro;BRR;38.666667;-9.066667;36.39;78359;http://www.cm-barreiro.pt/;Setúbal;4;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1505;Grândola;GDL;38.183333;-8.566667;825.94;13823;http://www.cm-grandola.pt;Setúbal;4;Alentejo Litoral;Alentejo
+1506;Moita;MTA;38.65;-9;55.26;66262;http://www.cm-moita.pt;Setúbal;4;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1507;Montijo;MTJ;38.7;-8.966667;348.62;55689;http://www.mun-montijo.pt;Setúbal;5;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1508;Palmela;PLM;38.5675;-8.899167;465.12;68856;http://www.cm-palmela.pt/;Setúbal;4;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1509;Santiago do Cacém;STC;38.016667;-8.7;1059.77;27773;http://www.cm-santiagocacem.pt/;Setúbal;8;Alentejo Litoral;Alentejo
+1510;Seixal;SXL;38.65;-9.1;95.50;166525;http://www.cm-seixal.pt/;Setúbal;4;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1511;Sesimbra;SSB;38.447222;-9.099444;195.47;52465;http://www.cm-sesimbra.pt/;Setúbal;3;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1512;Setúbal;STB;38.524306;-8.8925;230.33;123519;http://www.mun-setubal.pt/;Setúbal;5;Área Metropolitana de Lisboa;Área Metropolitana de Lisboa
+1513;Sines;SNS;37.956944;-8.869722;132.42;14214;http://www.sines.pt;Setúbal;2;Alentejo Litoral;Alentejo
+1601;Arcos de Valdevez;AVV;41.85;-8.416667;447.60;22847;http://www.cmav.pt;Viana do Castelo;36;Alto Minho;Norte
+1602;Caminha;CMN;41.833333;-8.833333;136.52;16684;https://www.cm-caminha.pt/;Viana do Castelo;14;Alto Minho;Norte
+1603;Melgaço;MLG;42.116667;-8.266667;238.25;7776;https://www.cm-melgaco.pt/;Viana do Castelo;13;Alto Minho;Norte
+1604;Monção;MNC;42.073333;-8.48;211.31;19230;http://www.cm-moncao.pt;Viana do Castelo;24;Alto Minho;Norte
+1605;Paredes de Coura;PCR;41.881667;-8.666389;138.19;9198;https://www.paredesdecoura.pt;Viana do Castelo;16;Alto Minho;Norte
+1606;Ponte da Barca;PTB;41.808611;-8.420833;182.11;12061;http://www.cmpb.pt;Viana do Castelo;17;Alto Minho;Norte
+1607;Ponte de Lima;PTL;41.766667;-8.583333;320.25;43498;http://www.cm-pontedelima.pt/;Viana do Castelo;39;Alto Minho;Norte
+1608;Valença;VLN;42.025833;-8.632778;117.13;13634;https://cm-valenca.pt/;Viana do Castelo;11;Alto Minho;Norte
+1609;Viana do Castelo;VCT;41.7;-8.833333;319.02;85784;http://www.cm-viana-castelo.pt/;Viana do Castelo;27;Alto Minho;Norte
+1610;Vila Nova de Cerveira;VNC;41.94;-8.744444;108.47;9253;http://www.cm-vncerveira.pt/;Viana do Castelo;11;Alto Minho;Norte
+1701;Alijó;ALJ;41.283333;-7.466667;297.60;10492;https://www.cm-alijo.pt;Vila Real;14;Douro;Norte
+1702;Boticas;BTC;41.683333;-7.666667;321.96;5750;http://www.cm-boticas.pt/;Vila Real;10;Alto Tâmega;Norte
+1703;Chaves;CHV;41.75;-7.533333;591.23;41243;http://www.chaves.pt/;Vila Real;39;Alto Tâmega;Norte
+1704;Mesão Frio;MSF;41.166667;-7.883333;26.65;4433;http://www.cm-mesaofrio.pt;Vila Real;5;Douro;Norte
+1705;Mondim de Basto;MDB;41.42;-7.958333;172.08;6410;http://www.mondimdebasto.pt/;Vila Real;6;Ave;Norte
+1706;Montalegre;MTR;41.823889;-7.79;805.46;10537;http://www.cm-montalegre.pt/;Vila Real;25;Alto Tâmega;Norte
+1707;Murça;MUR;41.408333;-7.453611;189.37;5245;https://www.cm-murca.pt;Vila Real;7;Douro;Norte
+1708;Peso da Régua;PRG;41.16173;-7.78910;94.86;14553;http://www.cm-pesoregua.pt/;Vila Real;8;Douro;Norte
+1709;Ribeira de Pena;RPN;41.519444;-7.814444;217.46;5887;http://www.cm-rpena.pt/;Vila Real;5;Alto Tâmega;Norte
+1710;Sabrosa;SBS;41.265278;-7.578056;156.92;6361;https://www.sabrosa.pt;Vila Real;12;Douro;Norte
+1711;Santa Marta de Penaguião;SMP;41.210833;-7.784444;69.28;7356;http://www.cm-smpenaguiao.pt/;Vila Real;7;Douro;Norte
+1712;Valpaços;VLP;41.6;-7.316667;548.74;16882;http://www.valpacos.pt;Vila Real;25;Alto Tâmega;Norte
+1713;Vila Pouca de Aguiar;VPA;41.501667;-7.647778;437.07;11813;https://www.cm-vpaguiar.pt/;Vila Real;14;Alto Tâmega;Norte
+1714;Vila Real;VRL;41.295833;-7.746111;378.80;49574;http://www.cm-vilareal.pt;Vila Real;20;Douro;Norte
+1801;Armamar;AMM;41.116667;-7.683333;117.24;6297;http://www.cm-armamar.pt;Viseu;14;Douro;Norte
+1802;Carregal do Sal;CRS;40.433333;-8;116.89;9835;http://www.carregal-digital.pt;Viseu;5;Viseu Dão-Lafões;Centro
+1803;Castro Daire;CDR;40.9;-7.933333;379.04;15339;http://www.cm-castrodaire.pt/;Viseu;16;Viseu Dão-Lafões;Centro
+1804;Cinfães;CNF;41.066667;-8.083333;239.29;20427;http://www.cm-cinfaes.pt;Viseu;14;Tâmega e Sousa;Norte
+1805;Lamego;LMG;41.083333;-7.866667;165.42;26691;http://www.cm-lamego.pt;Viseu;18;Douro;Norte
+1806;Mangualde;MGL;40.6;-7.766667;219.26;19880;http://www.cmmangualde.pt;Viseu;12;Viseu Dão-Lafões;Centro
+1807;Moimenta da Beira;MBR;40.983333;-7.616667;200.00;10201;http://www.cm-moimenta.pt/;Viseu;16;Douro;Norte
+1808;Mortágua;MRT;40.393056;-8.233333;251.18;9607;http://www.cm-mortagua.pt;Viseu;7;Região de Coimbra;Centro
+1809;Nelas;NLS;40.53;-7.855;125.71;13124;http://www.cm-nelas.pt/;Viseu;7;Viseu Dão-Lafões;Centro
+1810;Oliveira de Frades;OFR;40.747222;-8.173889;147.45;9510;http://www.cm-ofrades.com/;Viseu;8;Viseu Dão-Lafões;Centro
+1811;Penalva do Castelo;PCT;40.673889;-7.698056;134.34;7956;https://www.cm-penalvadocastelo.pt/;Viseu;11;Viseu Dão-Lafões;Centro
+1812;Penedono;PND;40.989444;-7.394722;133.71;2952;https://www.cm-penedono.pt/;Viseu;7;Douro;Norte
+1813;Resende;RSD;41.1;-7.95;123.35;11364;http://www.cm-resende.pt;Viseu;11;Tâmega e Sousa;Norte
+1814;Santa Comba Dão;SCD;40.4;-8.133333;111.95;11597;http://www.cm-santacombadao.pt/;Viseu;6;Viseu Dão-Lafões;Centro
+1815;São João da Pesqueira;SJP;41.148056;-7.405;266.11;7874;http://www.sjpesqueira.pt;Viseu;11;Douro;Norte
+1816;São Pedro do Sul;SPS;40.760833;-8.065556;348.95;16851;http://www.cm-spsul.pt/;Viseu;14;Viseu Dão-Lafões;Centro
+1817;Sátão;SAT;40.743056;-7.733056;201.94;11026;http://www.cm-satao.pt/;Viseu;9;Viseu Dão-Lafões;Centro
+1818;Sernancelhe;SRN;40.900278;-7.494444;228.61;5671;http://www.cm-sernancelhe.pt;Viseu;13;Douro;Norte
+1819;Tabuaço;TBC;41.117489;-7.567675;133.86;6350;http://www.cm-tabuaco.pt;Viseu;13;Douro;Norte
+1820;Tarouca;TRC;41.016667;-7.783333;100.08;8048;http://www.cm-tarouca.pt;Viseu;7;Douro;Norte
+1821;Tondela;TND;40.516667;-8.083333;371.22;28946;http://www.cm-tondela.pt;Viseu;19;Viseu Dão-Lafões;Centro
+1822;Vila Nova de Paiva;VNP;40.85;-7.733333;175.53;5176;http://www.cm-vnpaiva.pt/;Viseu;5;Viseu Dão-Lafões;Centro
+1823;Viseu;VIS;40.660833;-7.909444;507.10;99561;http://www.cm-viseu.pt/;Viseu;25;Viseu Dão-Lafões;Centro
+1824;Vouzela;VZL;40.723056;-8.111944;193.69;10564;http://www.cm-vouzela.pt;Viseu;9;Viseu Dão-Lafões;Centro
