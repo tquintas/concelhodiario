@@ -5233,7 +5233,7 @@ function validateAnswer() {
             scount = winLose==='w' ? scount:'X';
             streak[Number(respostas[Do].edition)-1] = scount;
             localStorage.setItem('stats',streak);
-            share = "concelhodiario.pt #"+respostas[Do].edition+" "+scount+"/6\n\n"+share;
+            share = "tquintas.github.io/concelhodiario/ #"+respostas[Do].edition+" "+scount+"/6\n\n"+share;
             setTimeout(function() {
                 document.getElementById("brazao").src = "brazoes/"+concelhos[Co].code+".png";
                 document.getElementById("sharing").hidden = false;
