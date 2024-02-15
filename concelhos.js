@@ -1383,7 +1383,7 @@ const concelhos = {
 	LAG:{
         name:"Lagoa",
         code:"0806",
-        lat:37.75,
+        lat:37.133333,
         long:-8.45,
         area:45.57,
         population:14416,
