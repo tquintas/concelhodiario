@@ -5066,7 +5066,7 @@ function firstGame() {
     }
 };
 
-function startGame() {
+document.onload = () => {
     ifMobile();
     if (navigator.userAgent.indexOf("Edge") != -1) {
         document.querySelector(':root').style.setProperty('--emoji','24px');
