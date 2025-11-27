@@ -1,5 +1,5 @@
 import unidecode as _u
-import random2 as _r
+import random as _r
 from doomsday import nextDay
 import matplotlib.image as _img
 
@@ -17,16 +17,16 @@ mes="""
         nuts2:"{}",
     """
 mes2="""
-        edition:"{:03d}",
-        date:"{}",
-        answer:"{}",
+        "edition":"{:03d}",
+        "date":"{}",
+        "answer":"{}"
     """
 ls='{\n'
 ld='{\n'
 cds=[]
 nms,nmsa=[],[]
 dicofre = []
-with open('/Users/tiagoquintas/Sites/concelhodiario/concelhosmetadata.csv','r') as fl:
+with open('concelhosmetadata.csv','r') as fl:
     fl.readline()
     for lines in fl:
         f = lines.strip().split(';')
@@ -37,13 +37,13 @@ with open('/Users/tiagoquintas/Sites/concelhodiario/concelhosmetadata.csv','r') 
         dicofre.append(f[0])
     ls+='}'
 try:
-    with open('/Users/tiagoquintas/Sites/concelhodiario/conclist.txt','x') as new:
+    with open('conclist.txt','x') as new:
         new.write(ls)
 except FileExistsError:
     pass
 
 try:
-    with open('/Users/tiagoquintas/Sites/concelhodiario/codelist.txt','x') as neww:
+    with open('codelist.txt','x') as neww:
         neww.write(str(cds))
         neww.write('\n')
         neww.write(str(nms))
@@ -51,38 +51,39 @@ except FileExistsError:
     pass      
 
 _r.shuffle(cds)
-day = (2023,10,23)
+day = (2025,11,26)
 counting=0
 for c in cds:
+    if counting != 0: ld+=',\n'
     counting+=1
     day = nextDay(*day)
     str_date = '{:04d}-{:02d}-{:02d}'.format(*day)
-    ld+='\t'+'"'+str_date+'"'+':{'+mes2.format(counting,str_date,c)+'},\n'
+    ld+='\t'+'"'+str_date+'"'+':{'+mes2.format(counting,str_date,c)+'}'
 else:
-    ld+='}'
+    ld+='\n}'
 
 try:
-    with open('/Users/tiagoquintas/Sites/concelhodiario/datelist.txt','x') as dates:
+    with open('datelist.txt','x') as dates:
         dates.write(ld)
 except FileExistsError:
     pass
 
 try:
-    with open('/Users/tiagoquintas/Sites/concelhodiario/conclistcomacentos.txt','x') as acentos:
+    with open('conclistcomacentos.txt','x') as acentos:
         acentos.write(str(nmsa))
 except FileExistsError:
     pass
 
 """
-img1 = _img.imread('/Users/tiagoquintas/Sites/cenasbraz/100x105.png')
-img2 = _img.imread('/Users/tiagoquintas/Sites/cenasbraz/100x105_red.png')
-img3 = _img.imread('/Users/tiagoquintas/Sites/cenasbraz/100x111.png')
-img4 = _img.imread('/Users/tiagoquintas/Sites/cenasbraz/100x118.png')
-img5 = _img.imread('/Users/tiagoquintas/Sites/cenasbraz/100x119.png')
+img1 = _img.imread('cenasbraz/100x105.png')
+img2 = _img.imread('cenasbraz/100x105_red.png')
+img3 = _img.imread('cenasbraz/100x111.png')
+img4 = _img.imread('cenasbraz/100x118.png')
+img5 = _img.imread('cenasbraz/100x119.png')
 
 for d in dicofre:
     if d=="1006" or d=="1204" or d=="1301" or d=="1318": continue
-    img = _img.imread('/Users/tiagoquintas/Sites/brazoes/'+d+'.png')
+    img = _img.imread('brazoes/'+d+'.png')
     if img.shape[0]==105:
         for i in range(105):
             for j in range(100):
@@ -102,6 +103,6 @@ for d in dicofre:
         for i in range(119):
             for j in range(100):
                 if img5[i,j].any(): img[i,j]=img5[i,j]
-    _img.imsave('/Users/tiagoquintas/Sites/brazoes/'+d+'b.png',img)
+    _img.imsave('brazoes/'+d+'b.png',img)
 """
 

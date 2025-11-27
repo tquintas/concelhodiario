@@ -1,4 +1,4 @@
-import random2 as _r
+import random as _r
 names={0:'Sunday',1:'Monday',2:'Tuesday',3:'Wednesday',4:'Thursday',5:'Friday',6:'Saturday'}
 
 def isLeapYear(y):
